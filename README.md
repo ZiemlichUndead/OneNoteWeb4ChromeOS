@@ -3,6 +3,9 @@ Fix pen input in OneNote Web on ChromeOS
 
 This is a VERY simple Chrome Extension that fixes pen inputs for OneNote Web on ChromeOS by dispatching a second pointerdown event that can be captured by onenote
 
+## Disclaimer
+I have sold my Chromebook and I can no longer test or fix anything for this extention. 
+
 ## Installation
 Since Google disabled loading of CRX files you will need to:
 1. Download the entire source (Code -> Download Zip)
